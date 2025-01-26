@@ -1,7 +1,7 @@
-# EDU_theme_2_parser
+# EDU_theme_5_parser
 
 ### Описание проекта
-`EDU_theme_2_parser` — это парсер для автоматической загрузки бюллетеней по итогам торгов с сайта биржи [СПбМТСБ](https://spimex.com/markets/oil_products/trades/results/). Парсер извлекает необходимые данные из таблицы бюллетеня и сохраняет их в базу данных в таблицу `spimex_trading_results`.
+`EDU_theme_5_parser` — это парсер для автоматической загрузки бюллетеней по итогам торгов с сайта биржи [СПбМТСБ](https://spimex.com/markets/oil_products/trades/results/). Парсер извлекает необходимые данные из таблицы бюллетеня и сохраняет их в базу данных в таблицу `spimex_trading_results`.
 
 ---
 
